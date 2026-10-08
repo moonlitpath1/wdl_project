@@ -1,6 +1,7 @@
 # Personality Test
 
-> This was my first website project ever. I'd made this in my first year of college. So, dont mind the bad UI or flaky wording of this README.^^"
+> This was my first website project ever. I'd made this in my first year of college. So, dont mind the bad UI or flaky wording of this README or the weird code
+>  ^^"
 
 **Welcome to the Personality Test Website!**
 
